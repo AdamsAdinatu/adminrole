@@ -22,7 +22,7 @@ facilities:{
     maxlength:3
 },
 numOfStudents:{
-    type: num,
+    type: Number,
     required:true
 },
 Adress:{
